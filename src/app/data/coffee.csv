@@ -1,0 +1,162 @@
+name,date,sales
+0xC0DECAFE,2024-01-01,145
+0xC0DECAFE,2024-01-02,92
+0xC0DECAFE,2024-01-03,73
+0xC0DECAFE,2024-01-04,128
+0xC0DECAFE,2024-01-05,81
+0xC0DECAFE,2024-01-06,92
+0xC0DECAFE,2024-01-07,102
+0xC0FFEE,2024-01-01,208
+0xC0FFEE,2024-01-02,255
+0xC0FFEE,2024-01-03,116
+0xC0FFEE,2024-01-04,283
+0xC0FFEE,2024-01-05,280
+0xC0FFEE,2024-01-06,214
+0xC0FFEE,2024-01-07,204
+CAFECAFE,2024-01-01,50
+CAFECAFE,2024-01-02,166
+CAFECAFE,2024-01-03,143
+CAFECAFE,2024-01-04,184
+CAFECAFE,2024-01-05,100
+CAFECAFE,2024-01-06,60
+CAFECAFE,2024-01-07,129
+Caffeination Bio,2024-01-01,131
+Caffeination Bio,2024-01-02,158
+Caffeination Bio,2024-01-03,65
+Caffeination Bio,2024-01-04,96
+Caffeination Bio,2024-01-05,165
+Caffeination Bio,2024-01-06,170
+Caffeination Bio,2024-01-07,99
+Casey's Coffee,2024-01-01,225
+Casey's Coffee,2024-01-02,246
+Casey's Coffee,2024-01-03,107
+Casey's Coffee,2024-01-04,204
+Casey's Coffee,2024-01-05,255
+Casey's Coffee,2024-01-06,137
+Casey's Coffee,2024-01-07,281
+Cat's Coffee,2024-01-01,387
+Cat's Coffee,2024-01-02,304
+Cat's Coffee,2024-01-03,472
+Cat's Coffee,2024-01-04,463
+Cat's Coffee,2024-01-05,538
+Cat's Coffee,2024-01-06,360
+Cat's Coffee,2024-01-07,403
+Coffeenation,2024-01-01,83
+Coffeenation,2024-01-02,188
+Coffeenation,2024-01-03,153
+Coffeenation,2024-01-04,197
+Coffeenation,2024-01-05,53
+Coffeenation,2024-01-06,131
+Coffeenation,2024-01-07,85
+Courant Coffee,2024-01-01,344
+Courant Coffee,2024-01-02,434
+Courant Coffee,2024-01-03,382
+Courant Coffee,2024-01-04,357
+Courant Coffee,2024-01-05,422
+Courant Coffee,2024-01-06,406
+Courant Coffee,2024-01-07,456
+Culmination Coffee,2024-01-01,158
+Culmination Coffee,2024-01-02,214
+Culmination Coffee,2024-01-03,570
+Culmination Coffee,2024-01-04,289
+Culmination Coffee,2024-01-05,281
+Culmination Coffee,2024-01-06,203
+Culmination Coffee,2024-01-07,481
+Culmination Java,2024-01-01,74
+Culmination Java,2024-01-02,167
+Culmination Java,2024-01-03,113
+Culmination Java,2024-01-04,84
+Culmination Java,2024-01-05,61
+Culmination Java,2024-01-06,156
+Culmination Java,2024-01-07,105
+Cup of Joe,2024-01-01,285
+Cup of Joe,2024-01-02,249
+Cup of Joe,2024-01-03,355
+Cup of Joe,2024-01-04,155
+Cup of Joe,2024-01-05,582
+Cup of Joe,2024-01-06,394
+Cup of Joe,2024-01-07,566
+EspressoBio,2024-01-01,123
+EspressoBio,2024-01-02,104
+EspressoBio,2024-01-03,231
+EspressoBio,2024-01-04,236
+EspressoBio,2024-01-05,252
+EspressoBio,2024-01-06,108
+EspressoBio,2024-01-07,254
+Flask Brew,2024-01-01,548
+Flask Brew,2024-01-02,515
+Flask Brew,2024-01-03,199
+Flask Brew,2024-01-04,402
+Flask Brew,2024-01-05,189
+Flask Brew,2024-01-06,208
+Flask Brew,2024-01-07,475
+Gina's Goe,2024-01-01,134
+Gina's Goe,2024-01-02,222
+Gina's Goe,2024-01-03,272
+Gina's Goe,2024-01-04,281
+Gina's Goe,2024-01-05,240
+Gina's Goe,2024-01-06,227
+Gina's Goe,2024-01-07,251
+Java Script,2024-01-01,87
+Java Script,2024-01-02,51
+Java Script,2024-01-03,156
+Java Script,2024-01-04,52
+Java Script,2024-01-05,195
+Java Script,2024-01-06,50
+Java Script,2024-01-07,105
+Joe and the Vue.js,2024-01-01,102
+Joe and the Vue.js,2024-01-02,260
+Joe and the Vue.js,2024-01-03,130
+Joe and the Vue.js,2024-01-04,285
+Joe and the Vue.js,2024-01-05,135
+Joe and the Vue.js,2024-01-06,123
+Joe and the Vue.js,2024-01-07,298
+Julia's Joe,2024-01-01,276
+Julia's Joe,2024-01-02,247
+Julia's Joe,2024-01-03,364
+Julia's Joe,2024-01-04,325
+Julia's Joe,2024-01-05,336
+Julia's Joe,2024-01-06,173
+Julia's Joe,2024-01-07,473
+Kevin's Coffee,2024-01-01,232
+Kevin's Coffee,2024-01-02,244
+Kevin's Coffee,2024-01-03,140
+Kevin's Coffee,2024-01-04,278
+Kevin's Coffee,2024-01-05,209
+Kevin's Coffee,2024-01-06,210
+Kevin's Coffee,2024-01-07,263
+Lincoln's Lattes,2024-01-01,291
+Lincoln's Lattes,2024-01-02,268
+Lincoln's Lattes,2024-01-03,141
+Lincoln's Lattes,2024-01-04,139
+Lincoln's Lattes,2024-01-05,216
+Lincoln's Lattes,2024-01-06,231
+Lincoln's Lattes,2024-01-07,229
+Luo Latte,2024-01-01,392
+Luo Latte,2024-01-02,545
+Luo Latte,2024-01-03,338
+Luo Latte,2024-01-04,188
+Luo Latte,2024-01-05,225
+Luo Latte,2024-01-06,497
+Luo Latte,2024-01-07,420
+Matthew's Mocha,2024-01-01,457
+Matthew's Mocha,2024-01-02,481
+Matthew's Mocha,2024-01-03,546
+Matthew's Mocha,2024-01-04,392
+Matthew's Mocha,2024-01-05,338
+Matthew's Mocha,2024-01-06,408
+Matthew's Mocha,2024-01-07,573
+Oren's Original Coffee,2024-01-01,242
+Oren's Original Coffee,2024-01-02,101
+Oren's Original Coffee,2024-01-03,254
+Oren's Original Coffee,2024-01-04,124
+Oren's Original Coffee,2024-01-05,140
+Oren's Original Coffee,2024-01-06,125
+Oren's Original Coffee,2024-01-07,260
+Siva's Sips,2024-01-01,176
+Siva's Sips,2024-01-02,44
+Siva's Sips,2024-01-03,76
+Siva's Sips,2024-01-04,54
+Siva's Sips,2024-01-05,69
+Siva's Sips,2024-01-06,147
+Siva's Sips,2024-01-07,178
